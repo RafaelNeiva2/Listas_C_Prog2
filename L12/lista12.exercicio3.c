@@ -1,0 +1,1 @@
+//Todos os integrantes do grupo leram o texto!

@@ -1,0 +1,1 @@
+// A Função puts(texto) inverterá o texto digitado, printando a palavra utilizada ao contrário.
